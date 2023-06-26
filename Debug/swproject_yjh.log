@@ -1,0 +1,24 @@
+﻿  calendar.c
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\calendar.c(26,11): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\calendar.c(13,9): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  delete_all.c
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\delete_all.c(29,13): warning C4098: 'delete_all': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\delete_all.c(13,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\delete_all.c(24,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  find.c
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\find.c(44,10): warning C4098: 'find': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\find.c(7,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\find.c(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\find.c(38,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main program.c
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\main program.c(39,13): warning C4013: 'list'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\main program.c(45,19): warning C4013: 'delete_all'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\main program.c(50,13): warning C4013: 'find'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\main program.c(27,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  expiration date.c
+  list.c
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\list.c(29,13): warning C4098: 'list': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\list.c(11,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\list.c(25,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  swproject_yjh.vcxproj -> C:\Users\82104\Desktop\소프트웨어공학 팀플\swproject_yjh\Debug\swproject_yjh.exe
